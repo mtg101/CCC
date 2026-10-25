@@ -13,20 +13,54 @@ Each class will have a goal that we hope all the students should achieve pretty 
 ## Class 1 - November 7th
 
 ### Title: We're going to learn how to make computers do what we want them to really do!
+
+### Introduction
+It's the first class, and some students might never have used Scratch or anything like it before. So let's give them a quick overview before we throw them into coding, something like...
+
 "We all use apps on computers and phones every day: web browsers, games, messaging apps, calendars, email, music players... 
 
 But in this class we're going to learn how we can make our own apps, and make computers do exactly what WE want them to do!
 
-???"
+Today we'll start by getting our laptops to show pictures of music instruments we can click to make them play, and make a clicker game from it. When we show interactive images like this that can move, we call them 'sprites' because they move around the screen on their own like fairies or... sprites!
 
-### Course: 
+So we'll have a background picture, then musical instrument sprites over the top of the background that we can click and play them, and score each time we make a noise.
 
-### Goal: 
+We're going to be following this course to make this: https://projects.raspberrypi.org/en/projects/drum-star
+
+On the first page I can click here to open the Scratch project in a new tab in my browser. 
+
+If you have your own Scratch account already, you can log in and 'remix' this project and same it so you can come back to the project when you log in to Scratch at home. If you don't have an account, ask your parents about it, we sent them details by email about how to get one.
+
+Now see how I can look at the instructions, see what block I need to add, then how I can add them over here in Scratch, and then I test the changes my clicking like this."
+
+(show following and testing at least two steps, so brand new students get the idea of how you Scratch)
+
+"Now try it youself, keep following the instructions one step at a time, and testing it. 
+
+If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'I'm clicking the drum but it doesn't make a noise' rather than just shouting 'it's broken it's broken'."
+
+(knowing how to ask for help effectively is a skill in and of itself)
+
+
+### Course: https://projects.raspberrypi.org/en/projects/drum-star
+
+### Goal: Complete the basic tutorial:
+- basic sprites, clicks, sounds, scores...
 
 ### Stretch Goals: 
-- 
-- 
-- 
+- add another instrument you can buy
+    - what instrument? 
+    - what sound does it make?
+    - how much will it cost?
+- make the tom-toms play both tom-toms
+    - make the sound go 'low tom / high tom'
+    - show sound effect gfx over the low then high tom as the sounds are made
+- show your rockstar when you click their name
+    - grab a sprite, or draw your own, for the rockstar
+- animate the background
+    - do the balloons move?
+    - or can you pop them?
+    - or maybe it needs a disco ball?
 
 
 ## Class 2 - November 14th
