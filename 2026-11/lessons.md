@@ -5,17 +5,18 @@ Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makec
 
 Each week will be a discerete project, so we don't need to worry about saving progress week-to-week. Having said that getting the students their own accounts they cane save to so they can continue to tinker and explore in their own time is of course ideal.
 
-Each class will have a goal that we hope all the students can achieve pretty easilly. There will then be stretch goals for students that achieve the goal early, and that all students can play with in their own time. 
+Each class will have a goal that we hope all the students should achieve pretty easily. There will then be stretch goals for students that achieve the goal early, and that all students can play with in their own time. 
+
 
 
 # Classes
 
 ## Class 1 - November 7th
 
-### Title: We're going to learn how to make computers do what we want them to do!
+### Title: We're going to learn how to make computers do what we want them to really do!
 "We all use apps on computers and phones every day: web browsers, games, messaging apps, calendars, email, music players... 
 
-But in this class we're going to learn how we can make our own apps, and make computers do what WE want them to do!
+But in this class we're going to learn how we can make our own apps, and make computers do exactly what WE want them to do!
 
 ???"
 
@@ -34,7 +35,7 @@ But in this class we're going to learn how we can make our own apps, and make co
 ### Title: 
 ""
 
-### Course: TBD own course
+### Course: TBD
 
 ### Goal: 
 
@@ -46,10 +47,14 @@ But in this class we're going to learn how we can make our own apps, and make co
 
 ## Class 3 - November 21st
 
-### Title: 
-""
+### Title: Pair Programming
+"Coding on your own and making Scratch do cool things is great. And if you get a team together for a project some people will code, some do music, some do graphics. But for the coders... sometimes pairing up is really powerful! 
 
-### Course: TBD own course
+Two coder with different ideas, talking about how to solve problems... sond great!
+
+But if you are just arguiong over who is typing... that doesn't work. So what you can do is talk about your ideas and plan togteher, then one person types in the code, and the other person tests it. And once it works, you swap roles for the next part of the code.
+
+### Course: 
 
 ### Goal: 
 
@@ -61,10 +66,10 @@ But in this class we're going to learn how we can make our own apps, and make co
 
 ## Class 4 - November 28th
 
-### Title: Pair Programming
+### Title: 
 ""
 
-### Course: TBD own course
+### Course: 
 
 ### Goal: 
 
@@ -77,15 +82,22 @@ But in this class we're going to learn how we can make our own apps, and make co
 ## Class 5 - December 5th
 
 ### Title: Tiny Tunes
-"Scratch has been great for letting us make lapotop screens do things for us. But the same sort of blocks can let us control any sort of computer! Today we're going to play with these Micro:bit devices "
+"Scratch has been great for letting us make lapotop screens do things for us. But the same sort of blocks can let us control any sort of computer! Today we're going to play with these Micro:bit devices - they have some LEDs, can play sound, have buttons, even have light and temperature sensors!
 
-### Course: TBD own course
+But most fun... they can talk to each other! We can send emotes to each other... but also sounds! And if we can send one sound... we can make songs!" 
+
+### Course: TBD own course but...
+- download basic show heart app
+- use buttons to show different images
+- send image to pair's bit
+- send note to pair's bit
+- demo of techno:bit
 
 ### Goal: 
 - show emote on own Micro:bit
 - sende emote to pair's Micro:bit
 - send play sound to pair's Micro:bit
-- play Techno:bit to see where this can go!
+- play Techno:bit demo to see where this can go!
 
 ### Stretch Goals: 
 - use the Makecode Micro:bit simulator to send messages to another microbit
