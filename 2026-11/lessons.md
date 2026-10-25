@@ -94,11 +94,13 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 ## Class 3 - November 21st
 
 ### Title: Pair Programming
-"Coding on your own and making Scratch do cool things is great. And if you get a team together for a project some people will code, some do music, some do graphics. But for the coders... sometimes pairing up is really powerful! 
+"Coding on your own and making Scratch do cool things is great. And if you get a team together for a project some people will code, some do music, some do graphics. 
 
-Two coder with different ideas, talking about how to solve problems... sond great!
+But for the coders... sometimes pairing up is really powerful! 
 
-But if you are just arguiong over who is typing... that doesn't work. So what you can do is talk about your ideas and plan togteher, then one person types in the code, and the other person tests it. And once it works, you swap roles for the next part of the code.
+Today we're going to try a harder Scratch project, so let's try working in pairs to do the harder project. 
+
+DOing it: talk about plan, plan code and how you will test, one codes, other tests, eveluate, fix and repeat, then next step...
 
 ### Course: 
 
