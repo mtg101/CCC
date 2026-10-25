@@ -128,6 +128,8 @@ But most fun... they can talk to each other! We can send messages to each other.
 ### Goal: 
 - try the Dice app
     - https://makecode.microbit.org/#tutorial:/projects/dice 
+    - try it in the simulator on the website
+    - then download to your Micro:bit and try it for real!    
 - show an emoji on your Micro:bit
     - https://makecode.microbit.org/#tutorial:/projects/smiley-buttons
 - send a message to someone else
