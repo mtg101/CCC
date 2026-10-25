@@ -1,7 +1,7 @@
 # Introduction to Block Code
 A 6 week course for students new to making computers do what they're told. 
 
-Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit controllers, and also as a gateway drug into Python ;)
+Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit controllers https://microbit.org/ and also as a gateway drug into Python ;)
 
 Each week will be a discerete project, so we don't need to worry about saving progress week-to-week. Having said that getting the students their own accounts they cane save to so they can continue to tinker and explore in their own time is of course ideal.
 
