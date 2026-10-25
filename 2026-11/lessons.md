@@ -1,5 +1,5 @@
 # Introduction to Block Code
-A 6 week course for students new to making computers do what they're told. 
+A 6-week course for students new to making computers do what they're told. 
 
 Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit https://microbit.org/get-started/what-is-the-microbit/ and also as a gateway drug into Python ;)
 
