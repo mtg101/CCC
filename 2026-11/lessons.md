@@ -121,7 +121,7 @@ But if you are just arguiong over who is typing... that doesn't work. So what yo
 
 But most fun... they can talk to each other! We can send emotes to each other... but also sounds! And if we can send one sound... we can make songs!" 
 
-### Course: TBD own course but...
+### Course: https://makecode.microbit.org/
 - download basic show heart app
 - use buttons to show different images
 - send image to pair's bit
@@ -150,7 +150,11 @@ So today let's use all we've learned in Scratch to make an animated, and maybe e
 
 It could be a Christmas tree with animated lights. Or it it presents you can open? What about food..."
 
-### Goal: Make an animated winter celbration scene
+### Course: https://scratch.mit.edu/
+
+### Goal: Make an animated winter celebration scene
+- start with a blank new project and create a winter celebration scene
+- start with a background, then add sprites for people and objects
 
 ### Stretch Goals: 
 - make the scene interactive
@@ -159,7 +163,10 @@ It could be a Christmas tree with animated lights. Or it it presents you can ope
 - play a winter tune
     - what tune makes you think of winter?
     - how can you play that tune?
-- 
+- check out other students scenes and learn about how they celebrate winter
+    - and talk to your own family about the ways that other people celebrate
+    - do you have any special family celebrations that have been passed down?
+
 
 
 

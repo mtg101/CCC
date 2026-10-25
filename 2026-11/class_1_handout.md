@@ -12,6 +12,9 @@ We're going to follow the instructions in this course to make a clicker game abo
 - complete the basic tutorial
 - shows instruments you can click to make noise and increase score
 
+### How to ask for help
+If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'I'm clicking the drum but it doesn't make a noise' rather than just shouting 'it's broken it's broken'.
+
 ### Stretch Goals: more things you can do with this project, in class or later at home
 - add another instrument you can buy
     - what instrument? 
