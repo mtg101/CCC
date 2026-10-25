@@ -67,17 +67,28 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 
 ## Class 2 - November 14th
 
-### Title: 
-""
+### Title: Animations
 
-### Course: TBD
+### Introduction
+"Last week we made sprites that reacted to us clicking on them. This week we're going to see how to animate sprites so they move on their own, like characters in video games or for telling stories in anime."
 
-### Goal: 
+### Course: https://projects.raspberrypi.org/en/projects/lost-in-space
+
+### Goal: Complete the basic tutorial
+- animate lots of things in space in different ways
 
 ### Stretch Goals: 
-- 
-- 
-- 
+- add another space object
+    - what might be floating in space?
+    - how would it move?
+    - does it have other animations?
+- add some space music
+    - play space music while the scene animates
+- guide a rocket
+    - make a way to control where the rocket flies
+    - keyboard controls? mouse?
+    - does it interact with other objects if you guide it into them?
+ 
 
 
 ## Class 3 - November 21st

@@ -15,7 +15,7 @@ Let's make our own animated scenes in Scratch showing how we all celebrate winte
 ### How to ask for help
 If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'I've added sprites for my friends but they are the wrong colour' rather than just shouting 'it's broken it's broken'.
 
-### Stretch Goals: 
+### Stretch Goals: more things you can do with this project, in class or later at home 
 - make the scene interactive
     - can you change the colour of lights by clicking them?
     - can people in the scene say things when you click on them?

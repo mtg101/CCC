@@ -9,7 +9,7 @@ Laptops aren't the only think tha Block Code can control. Today we're going to p
 ### Course: https://makecode.microbit.org/
 - here you can find the Dice example to edit and download to the Micro:bit
 
-### Goal: 
+### Goal: what everyone will do in the class
 - try the Dice app
     - https://makecode.microbit.org/#tutorial:/projects/dice 
     - try it in the simulator on the website
@@ -23,7 +23,7 @@ Laptops aren't the only think tha Block Code can control. Today we're going to p
 - play Techno:bit demo to see where this can go!
     - https://makecode.microbit.org/S26000-11508-29408-02742
 
-### Stretch Goals: 
+### Stretch Goals: more things you can do with this project, in class or later at home
 - use the Makecode Micro:bit simulator to send messages to another microbit
 - copy the Techno:bit code and use it to make your own tracks and songs
     - https://makecode.microbit.org/S26000-11508-29408-02742 

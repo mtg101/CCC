@@ -9,8 +9,7 @@ We're going to follow the instructions in this course to make a clicker game abo
 ### Course: https://projects.raspberrypi.org/en/projects/drum-star
 
 ### Goal: what everyone will do in the class
-- complete the basic tutorial
-- shows instruments you can click to make noise and increase score
+- make the full game that the tutorial shows you by following all the instructions step-by-step
 
 ### How to ask for help
 If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'I'm clicking the drum but it doesn't make a noise' rather than just shouting 'it's broken it's broken'.
