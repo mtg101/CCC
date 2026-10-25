@@ -93,24 +93,37 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 
 ## Class 3 - November 21st
 
-### Title: Pair Programming
+### Title: Pair Programming a Book
 "Coding on your own and making Scratch do cool things is great. And if you get a team together for a project some people will code, some do music, some do graphics. 
 
 But for the coders... sometimes pairing up is really powerful! 
 
 Today we're going to try a harder Scratch project, so let's try working in pairs to do the harder project. 
 
-DOing it: talk about plan, plan code and how you will test, one codes, other tests, eveluate, fix and repeat, then next step...
+This project is going to make an interactive storybook or comic/manga. You'll tell your story over a few pages pages, so work together to plan out what the story is and what each page will show.
 
-### Course: 
+Then start to work out how to code it. How will you turn pages? How will you show the story on each page?
 
-### Goal: 
+Each time you are going to write some code, agree what you are planning to do, and how you can test it. "We're going to make it so when you click the skeleton, it shakes, and we'll test it by clicking the skeleton to see if it shakes, and clicking not on the skeleton to check it doesn't shake". 
+
+One person will then write the code blocks, then the other person will test it. That makes sure the code you're writing is working as you planned it. Take turns in being the one that writes the code, and the one that tests it."
+
+### Course: https://projects.raspberrypi.org/en/projects/i-made-you-a-book
+
+### Goal: work together to create your story
 
 ### Stretch Goals: 
-- 
-- 
-- 
-
+- make it a choose-your-own-adventure!
+    - let the read choose what happens next in the story
+    - on the next to last page you can ask what the reader wants
+    - and then the final page is different depending on how they answer
+    - "Does the hero save the Prince, or does she save the dog?"
+    - how could you make more choices in the same story?
+- what team roles would you like to try?
+    - large Scratch projects, like any large coding project, has lots of people working on different things
+    - some people focus on the graphics, or the sound, others write the story, and of course many programmers with pair program the code, and then testers will test it all
+    - which of those roles sounds interesting to you?
+    - try searching online about the different sorts of roles that make up software development teams, or asking family friends what team roles they have with their hobbies or at their work
 
 ## Class 4 - November 28th
 
