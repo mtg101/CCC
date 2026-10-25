@@ -119,24 +119,34 @@ But if you are just arguiong over who is typing... that doesn't work. So what yo
 ### Title: Tiny Tunes
 "Scratch has been great for letting us make lapotop screens do things for us. But the same sort of blocks can let us control any sort of computer! Today we're going to play with these Micro:bit devices - they have some LEDs, can play sound, have buttons, even have light and temperature sensors!
 
-But most fun... they can talk to each other! We can send emotes to each other... but also sounds! And if we can send one sound... we can make songs!" 
+But most fun... they can talk to each other! We can send messages to each other... but also sounds! And if we can send one sound... we can make songs!" 
+
 
 ### Course: https://makecode.microbit.org/
-- download basic show heart app
-- use buttons to show different images
-- send image to pair's bit
-- send note to pair's bit
-- demo of techno:bit
+- here you can find the Dice example to edit and download to the Micro:bit
 
 ### Goal: 
-- show emote on own Micro:bit
-- sende emote to pair's Micro:bit
-- send play sound to pair's Micro:bit
+- try the Dice app
+    - https://makecode.microbit.org/#tutorial:/projects/dice 
+- show an emoji on your Micro:bit
+    - https://makecode.microbit.org/#tutorial:/projects/smiley-buttons
+- send a message to someone else
+    - https://makecode.microbit.org/#tutorial:/projects/micro-chat
+- make a sound when you receive a message
+    - think how to do to this yourself, or by talking to someone else in the class
 - play Techno:bit demo to see where this can go!
+    - https://makecode.microbit.org/S26000-11508-29408-02742
 
 ### Stretch Goals: 
 - use the Makecode Micro:bit simulator to send messages to another microbit
 - copy the Techno:bit code and use it to make your own tracks and songs
+    - https://makecode.microbit.org/S26000-11508-29408-02742 
+    - https://github.com/mtg101/Techno-bit 
+- think about how you could connect a Micro:bit to other sensors, or even to control a robot!
+    = https://kitronik.co.uk/collections/coding/microbit-and-accessories/accessories-for-the-bbc-micro-bit 
+    - https://thepihut.com/collections/bbc-micro-bit-robotics
+
+
 
 
 ## Class 6 - December 12th
