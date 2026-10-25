@@ -3,10 +3,9 @@ A 6 week course for students new to making computers do what they're told.
 
 Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit https://microbit.org/get-started/what-is-the-microbit/ and also as a gateway drug into Python ;)
 
-Each week will be a discrete project, so we don't need to worry about saving progress week-to-week. Having said that getting the students their own accounts they cane save to so they can continue to tinker and explore in their own time is of course ideal.
+Each week will be a discrete project, so we don't need to worry about saving progress week-to-week. Having said that getting the students their own accounts they can save to so they can continue to tinker and explore in their own time is of course ideal.
 
 Each class will have a goal that we hope all the students should achieve pretty easily. There will then be stretch goals for students that achieve the goal early, and that all students can play with in their own time. 
-
 
 
 # Classes
