@@ -9,7 +9,9 @@ Laptops aren't the only think tha Block Code can control. Today we're going to p
 ### Course: https://makecode.microbit.org/
 - here you can find the Dice example to edit and download to the Micro:bit
 
-### Goal: what everyone will do in the class
+### Goals: 
+Let's work as a class to try some fun things with the Micro:bit devices...
+
 - try the Dice app
     - https://makecode.microbit.org/#tutorial:/projects/dice 
     - try it in the simulator on the website
