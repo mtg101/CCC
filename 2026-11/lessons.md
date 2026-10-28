@@ -161,6 +161,25 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 
 ## Class 5 - December 5th
 
+### Makecode Micro:bits not Scratch
+Today we'll be getting the kids to write code for the cool little Micro_bit devices, and downloading and running their code n real devices.
+
+While Scratch does have plugins for the Micro:bit devices, it's much easier to connect and transfer using Makecode, so we'll be using that for this class.
+
+#### Makecode Classrooms
+Unlike Scratch teacher accounts and classes, Makecode uses ephemeral Classrooms: so you can't save them online, you have to start afresh each time. But you can't start fresh from an existing project...
+
+You can create one here: https://classroom.microbit.org/
+
+But it's blank code to start with :boo: You can open the editor and then it's either drag/drop a .hex file over or copy/pasta your JS from the project you want to share. Either way break the Classroom preview...
+
+But the student don't see that. WHen you send them code to their editor it looks good as blocks! So you could just copy/pasta JS code over and send to student.
+
+But you have use a share link for students, which isn't very shareable, eg: https://classroom.microbit.org/join#id=58431&password=C3VPLTMP 
+
+For this one-off class using Makecode we'll just use the direct links below rather than try and use the classroom.
+
+
 ### Title: Tiny Tunes
 
 ### Introduction
@@ -175,6 +194,8 @@ If you get stuck, ask for help. And remember to try and ask good questions so yo
 
 ### Course: https://makecode.microbit.org/
 - here you can find the Dice example to edit and download to the Micro:bit
+
+
 
 ### Goals: 
 No single goal for this class. Depending on how it goes with using Makecode not Scratch, connecting devices with wires... let's see how far we get. Ideally we can end the class with the Techno:bit demo running on multiple devices, which should be fun to show to families picking up the students. 
