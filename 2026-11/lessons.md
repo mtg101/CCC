@@ -1,7 +1,7 @@
 # Introduction to Block Code
 A 6-week course for students new to making computers do what they're told. 
 
-Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit https://microbit.org/get-started/what-is-the-microbit/ and also as a gateway drug into Python ;)
+Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit https://microbit.org/get-started/what-is-the-microbit/ and also as a gateway drug into Python :smirk:
 
 Each week will be a discrete project, so we don't need to worry about saving progress week-to-week. Having said that getting the students their own accounts they can save to so they can continue to tinker and explore in their own time is of course ideal.
 
@@ -94,6 +94,8 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 ## Class 3 - November 21st
 
 ### Title: Pair Programming a Book
+
+### Introduction
 "Coding on your own and making Scratch do cool things is great. And if you get a team together for a project some people will code, some do music, some do graphics. 
 
 But for the coders... sometimes pairing up is really powerful! 
@@ -127,22 +129,33 @@ One person will then write the code blocks, then the other person will test it. 
 
 ## Class 4 - November 28th
 
-### Title: 
-""
+### Title: Time for you own platform jumper game!
 
-### Course: 
+### Introduction
+"So we started learning how to make interactive sprites, then animated them, and learned how to design our own things in pairs. 
 
-### Goal: 
+So now we're ready to create our own platform jumper games, where you get to choose how they look! Are you hopping on logs in a river? SKipping through planets in space?
+"
+
+### Course: https://projects.raspberrypi.org/en/projects/dont-fall-in
+
+### Goal: follow the instructions and design your own jumping game
 
 ### Stretch Goals: 
-- 
-- 
-- 
+- once you get to the other side, the game ends :(
+    - what else could happen? 
+- why is your sprite crossing in the first place?
+    - chickens crossing road jokes?
+    - is the hero jumping over to save her pet from something?
+- how would you make different levels for this game?
+    - or would this just be one section of a larger game with a full story?
 
 
 ## Class 5 - December 5th
 
 ### Title: Tiny Tunes
+
+### Introduction
 "Scratch has been great for letting us make lapotop screens do things for us. But the same sort of blocks can let us control any sort of computer! Today we're going to play with these Micro:bit devices - they have some LEDs, can play sound, have buttons, even have light and temperature sensors!
 
 But most fun... they can talk to each other! We can send messages to each other... but also sounds! And if we can send one sound... we can make songs!" 
