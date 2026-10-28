@@ -7,7 +7,9 @@ Each week will be a discrete project, so we don't need to worry about saving pro
 
 Each class will have a goal that we hope all the students should achieve pretty easily. There will then be stretch goals for students that achieve the goal early, and that all students can play with in their own time. 
 
-Each class has a handout.md file which can be the base page students start with, as it has the basics for what we're doing and all the links they need. 
+I've also some thoughts on how to introduce each class. These would probably be better as bullet points to cover, rather than the mini-scripts I've written...
+
+Each class also has a handout.md file which can be the base page students start with, as it has the basics for what we're doing and all the links they need. Maybe something we can email out each class, so parents can see what we're doing each week, and students can use for the links and stretch goal ideas?
 
 
 # Classes
