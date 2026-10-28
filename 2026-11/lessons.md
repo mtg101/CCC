@@ -70,7 +70,9 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 ### Title: Animations
 
 ### Introduction
-"Last week we made sprites that reacted to us clicking on them. This week we're going to see how to animate sprites so they move on their own, like characters in video games or for telling stories in anime."
+"Last week we made sprites that reacted to us clicking on them. This week we're going to see how to animate sprites so they move on their own, like characters in video games or for telling stories in anime.
+
+If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'I'm clicking the drum but it doesn't make a noise' rather than just shouting 'it's broken it's broken'."
 
 ### Course: https://projects.raspberrypi.org/en/projects/lost-in-space
 
@@ -108,7 +110,9 @@ Then start to work out how to code it. How will you turn pages? How will you sho
 
 Each time you are going to write some code, agree what you are planning to do, and how you can test it. "We're going to make it so when you click the skeleton, it shakes, and we'll test it by clicking the skeleton to see if it shakes, and clicking not on the skeleton to check it doesn't shake". 
 
-One person will then write the code blocks, then the other person will test it. That makes sure the code you're writing is working as you planned it. Take turns in being the one that writes the code, and the one that tests it."
+One person will then write the code blocks, then the other person will test it. That makes sure the code you're writing is working as you planned it. Take turns in being the one that writes the code, and the one that tests it.
+
+If you get stuck, try talking with your pair partner about it first. If you're still stuck, work together to think how it's best to ask one of us for help - remember you'll get much better help if you ask us 'the first 3 pages of our book work but the 4th one doesn't' rather than just shouting 'it's broken it's broken'."
 
 ### Course: https://projects.raspberrypi.org/en/projects/i-made-you-a-book
 
@@ -134,7 +138,9 @@ One person will then write the code blocks, then the other person will test it. 
 ### Introduction
 "So we started learning how to make interactive sprites, then animated them, and learned how to design our own things in pairs. 
 
-So now we're ready to create our own platform jumper games, where you get to choose how they look! Are you hopping on logs in a river? SKipping through planets in space?
+So now we're ready to create our own platform jumper games, where you get to choose how they look! Are you hopping on logs in a river? Skipping through planets in space? Its up to you!
+
+If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'my sprite doesn't land on the blocks it always dies' rather than just shouting 'it's broken it's broken'.
 "
 
 ### Course: https://projects.raspberrypi.org/en/projects/dont-fall-in
@@ -142,7 +148,7 @@ So now we're ready to create our own platform jumper games, where you get to cho
 ### Goal: follow the instructions and design your own jumping game
 
 ### Stretch Goals: 
-- once you get to the other side, the game ends :(
+- once you get to the other side, the game ends :sadface:
     - what else could happen? 
 - why is your sprite crossing in the first place?
     - chickens crossing road jokes?
@@ -158,7 +164,11 @@ So now we're ready to create our own platform jumper games, where you get to cho
 ### Introduction
 "Scratch has been great for letting us make lapotop screens do things for us. But the same sort of blocks can let us control any sort of computer! Today we're going to play with these Micro:bit devices - they have some LEDs, can play sound, have buttons, even have light and temperature sensors!
 
-But most fun... they can talk to each other! We can send messages to each other... but also sounds! And if we can send one sound... we can make songs!" 
+But most fun... they can talk to each other! We can send messages to each other... but also sounds! And if we can send one sound... we can make songs!
+
+We're going to try a number of simple projects, starting with just getting a simple app downloaded to the devices. Then we'll see what else they can do...
+
+If you get stuck, ask for help. And remember to try and ask good questions so you get the best answers!" 
 
 
 ### Course: https://makecode.microbit.org/
@@ -199,7 +209,9 @@ We all know Christmas, but there's Africa's Kwanzaa, Jewish Hanukkah, Hindi Diwa
 
 So today let's use all we've learned in Scratch to make an animated, and maybe even interactive, winter celebration scene! Make something to show everyone else in the class how you and your friends and family celebrate winter together!
 
-It could be a Christmas tree with animated lights. Or it it presents you can open? What about food..."
+It could be a Christmas tree with animated lights. Or it it presents you can open? What about food...
+
+If you get stuck, ask for help. And remember to try and ask good questions so you get the best answers!"
 
 ### Course: https://scratch.mit.edu/
 
