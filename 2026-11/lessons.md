@@ -173,7 +173,7 @@ You can create one here: https://classroom.microbit.org/
 
 But it's blank code to start with :boo: You can open the editor and then it's either drag/drop a .hex file over or copy/pasta your JS from the project you want to share. Either way break the Classroom preview...
 
-But the student don't see that. When you send them code to their editor it looks good as blocks! So you could just copy/pasta JS code over and send to student.
+But the student don't see that. When you send them code to their editor it looks good as blocks! So you could just copy/pasta JS code over and send to students.
 
 But you have use a share link for students, which isn't very shareable, eg: https://classroom.microbit.org/join#id=58431&password=C3VPLTMP 
 
