@@ -193,9 +193,6 @@ If you get stuck, ask for help. And remember to try and ask good questions so yo
 
 
 ### Course: https://makecode.microbit.org/
-- here you can find the Dice example to edit and download to the Micro:bit
-
-
 
 ### Goals: 
 No single goal for this class. Depending on how it goes with using Makecode not Scratch, connecting devices with wires... let's see how far we get. Ideally we can end the class with the Techno:bit demo running on multiple devices, which should be fun to show to families picking up the students. 
