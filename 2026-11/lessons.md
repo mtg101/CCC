@@ -214,7 +214,7 @@ No single goal for this class. Depending on how it goes with using Makecode not 
 - use the Makecode Micro:bit simulator to send messages to another microbit
 - copy the Techno:bit code and use it to make your own tracks and songs
     - https://makecode.microbit.org/S26000-11508-29408-02742 
-    - https://github.com/mtg101/Techno-bit 
+    - https://github.com/mtg101/Techno-bit/blob/main/README.md
 - think about how you could connect a Micro:bit to other sensors, or even to control a robot!
     = https://kitronik.co.uk/collections/coding/microbit-and-accessories/accessories-for-the-bbc-micro-bit 
     - https://thepihut.com/collections/bbc-micro-bit-robotics
