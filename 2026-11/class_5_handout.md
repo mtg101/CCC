@@ -23,7 +23,8 @@ Let's work as a class to try some fun things with the Micro:bit devices...
 - make a sound when you receive a message
     - think how to do to this yourself, or by talking to someone else in the class
 - play Techno:bit demo to see where this can go!
-    - https://makecode.microbit.org/S26000-11508-29408-02742
+    - Get it here: https://makecode.microbit.org/S26000-11508-29408-02742
+    - More details here: https://github.com/mtg101/Techno-bit/blob/main/README.md 
 
 ### Stretch Goals: more things you can do with this project, in class or later at home
 - use the Makecode Micro:bit simulator to send messages to another microbit
