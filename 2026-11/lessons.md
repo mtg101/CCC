@@ -205,6 +205,7 @@ No single goal for this class. Depending on how it goes with using Makecode not 
     - https://makecode.microbit.org/#tutorial:/projects/smiley-buttons
 - send a message to someone else
     - https://makecode.microbit.org/#tutorial:/projects/micro-chat
+    - remember to agree which Radio Channel your Micro:bits will be sharing! They have to agree, and you don't want to affect other Micro:bits in the class so your groups need their own channel    
 - make a sound when you receive a message
     - think how to do to this yourself, or by talking to someone else in the class
 - play Techno:bit demo to see where this can go!
