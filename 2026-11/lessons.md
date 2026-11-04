@@ -193,6 +193,7 @@ If you get stuck, ask for help. And remember to try and ask good questions so yo
 
 
 ### Course: https://makecode.microbit.org/
+- plus techno: https://github.com/mtg101/Techno-bit/blob/main/README.md
 
 ### Goals: 
 No single goal for this class. Depending on how it goes with using Makecode not Scratch, connecting devices with wires... let's see how far we get. Ideally we can end the class with the Techno:bit demo running on multiple devices, which should be fun to show to families picking up the students. 
@@ -209,7 +210,7 @@ No single goal for this class. Depending on how it goes with using Makecode not 
 - make a sound when you receive a message
     - think how to do to this yourself, or by talking to someone else in the class
 - play Techno:bit demo to see where this can go!
-    - https://makecode.microbit.org/S26000-11508-29408-02742
+    - https://github.com/mtg101/Techno-bit/blob/main/README.md
 
 ### Stretch Goals: 
 - use the Makecode Micro:bit simulator to send messages to another microbit
