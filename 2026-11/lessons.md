@@ -175,7 +175,7 @@ But it's blank code to start with :boo: You can open the editor and then it's ei
 
 But the student don't see that. When you send them code to their editor it looks good as blocks! So you could just copy/pasta JS code over and send to students.
 
-But you have use a share link for students, which isn't very shareable, eg: https://classroom.microbit.org/join#id=58431&password=C3VPLTMP 
+But you have to use a share link for students, which isn't very shareable, eg: https://classroom.microbit.org/join#id=58431&password=C3VPLTMP 
 
 For this one-off class using Makecode we'll just use the direct links below rather than try and use the classroom.
 
