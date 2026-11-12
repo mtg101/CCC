@@ -1,6 +1,8 @@
 # Introduction to Block Code
 A 6-week course for students new to making computers do what they're told. 
 
+All classes: https://github.com/mtg101/CCC/tree/main/2026-11
+
 ## Class 1 - November 7th
 
 ### Title: We're going to learn how to make computers do what we want them to really do!
