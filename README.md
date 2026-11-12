@@ -4,3 +4,4 @@ But I still don't want to have to go down the Google Docs route. Having to share
 
 So erm... what about some nice markdown files on GitHub? Does what I need plus bonus: I'm sending students to GitHub to grab the resources they need for the class. I can throw in a bit about version control and so on...
 
+https://github.com/mtg101/CCC
