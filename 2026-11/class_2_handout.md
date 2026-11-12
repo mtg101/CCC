@@ -6,7 +6,7 @@ All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 ## Class 2 - November 14th
 
 ### Title: Animations
-Last class we makde Sprites react to things. Now we're going to make them move on their own!
+Last class we made Sprites react to things. Now we're going to make them move on their own!
 
 ### Course: https://projects.raspberrypi.org/en/projects/lost-in-space
 
