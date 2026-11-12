@@ -1,4 +1,6 @@
 # Introduction to Block Code
+https://github.com/mtg101/CCC
+
 A 6-week course for students new to making computers do what they're told. 
 
 Primarily using Scratch https://scratch.mit.edu/ but with a diversion into Makecode https://makecode.microbit.org/ to show the students the BBC MIcro:bit https://microbit.org/get-started/what-is-the-microbit/ and also as a gateway drug into Python :smirk:
@@ -175,7 +177,7 @@ But it's blank code to start with :boo: You can open the editor and then it's ei
 
 But the student don't see that. When you send them code to their editor it looks good as blocks! So you could just copy/pasta JS code over and send to students.
 
-But you have use a share link for students, which isn't very shareable, eg: https://classroom.microbit.org/join#id=58431&password=C3VPLTMP 
+But you have to use a share link for students, which isn't very shareable, eg: https://classroom.microbit.org/join#id=58431&password=C3VPLTMP 
 
 For this one-off class using Makecode we'll just use the direct links below rather than try and use the classroom.
 
