@@ -11,6 +11,9 @@ This is a harder project, so we're going to work in pairs. Together you'll write
 ### Course: https://projects.raspberrypi.org/en/projects/i-made-you-a-book
 
 ### Goal: work together to create your story and follow the instructions
+Each time you are going to write some code, agree what you are planning to do, and how you can test it. "We're going to make it so when you click the skeleton, it shakes, and we'll test it by clicking the skeleton to see if it shakes, and clicking not on the skeleton to check it doesn't shake". 
+
+One person will then write the code blocks, then the other person will test it. That makes sure the code you're writing is working as you planned it. Take turns in being the one that writes the code, and the one that tests it.
 
 ### How to ask for help
 If you get stuck, try talking with your pair partner about it first. If you're still stuck, work together to think how it's best to ask one of us for help - remember you'll get much better help if you ask us 'the first 3 pages of our book work but the 4th one doesn't' rather than just shouting 'it's broken it's broken'.
