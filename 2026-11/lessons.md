@@ -126,7 +126,7 @@ If you get stuck, try talking with your pair partner about it first. If you're s
 
 ### Stretch Goals: 
 - make it a choose-your-own-adventure!
-    - let the read choose what happens next in the story
+    - let the reader choose what happens next in the story
     - on the next to last page you can ask what the reader wants
     - and then the final page is different depending on how they answer
     - "Does the hero save the Prince, or does she save the dog?"
