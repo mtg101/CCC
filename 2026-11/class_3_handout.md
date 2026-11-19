@@ -13,6 +13,8 @@ This is a harder project, so we're going to work in pairs. Together you'll write
 ### Goal: work together to create your story and follow the instructions
 Decide on a short story together, then use the course above to make a Scratch book of it. 
 
+Use one laptop for the course instructions, and the other laptop to code in Scratch. Take turns being the one to write the code. 
+
 Each time you are going to write some code, agree what you are planning to do, and how you can test it. "We're going to make it so when you click the skeleton, it shakes, and we'll test it by clicking the skeleton to see if it shakes, and clicking not on the skeleton to check it doesn't shake". 
 
 One person will then write the code blocks, then the other person will test it. That makes sure the code you're writing is working as you planned it. Take turns in being the one that writes the code, and the one that tests it.
