@@ -114,6 +114,8 @@ This project is going to make an interactive storybook or comic/manga. You'll te
 
 Then start to work out how to code it. How will you turn pages? How will you show the story on each page?
 
+Then use one laptop to show the course instructions, and another one to write the Scratch code. Take turns being the one to write the code. 
+
 Each time you are going to write some code, agree what you are planning to do, and how you can test it. "We're going to make it so when you click the skeleton, it shakes, and we'll test it by clicking the skeleton to see if it shakes, and clicking not on the skeleton to check it doesn't shake". 
 
 One person will then write the code blocks, then the other person will test it. That makes sure the code you're writing is working as you planned it. Take turns in being the one that writes the code, and the one that tests it.
@@ -126,7 +128,7 @@ If you get stuck, try talking with your pair partner about it first. If you're s
 
 ### Stretch Goals: 
 - make it a choose-your-own-adventure!
-    - let the read choose what happens next in the story
+    - let the reader choose what happens next in the story
     - on the next to last page you can ask what the reader wants
     - and then the final page is different depending on how they answer
     - "Does the hero save the Prince, or does she save the dog?"
