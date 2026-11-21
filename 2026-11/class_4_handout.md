@@ -8,7 +8,7 @@ All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 ### Title: Time for you own platform jumper game!
 Let's put together the interactive sprites, animates sprites and design we've learned to make our own platform jumping game!
 
-### Course: https://projects.raspberrypi.org/en/projects/drum-star
+### Course: https://projects.raspberrypi.org/en/projects/dont-fall-in
 
 ### Goal: make your own platform jumper game using your own designs!
 
