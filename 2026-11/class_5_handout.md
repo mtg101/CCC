@@ -6,7 +6,7 @@ All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 ## Class 5 - December 5th
 
 ### Title: Tiny Tunes
-Laptops aren't the only think tha Block Code can control. Today we're going to play with Micro:bits https://microbit.org/ - tiny little computers with lots of sensors, some LEDs and a speaker.
+Laptops aren't the only thing that Block Code can control. Today we're going to play with Micro:bits https://microbit.org/ - tiny little computers with lots of sensors, some LEDs and a speaker.
 
 ### Course: https://makecode.microbit.org/
 - here you can find the Dice example to edit and download to the Micro:bit
