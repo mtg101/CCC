@@ -22,7 +22,7 @@ I think they all would be better off if we let them find something they want to 
 
 I'm confident that left to their own devices (with enabling adults) something interesting will happen. 
 
-## I think we'd be good at this
+## I think we'd be good at this? Or our skills better applied....
 Our younger Duke of Edinburgh helpers are our Scratch experts. 
 
 The rest of us teachers/assistants are just experienced coders and developers. AKA old farts who really don't know the pitfalls of Scratch!
