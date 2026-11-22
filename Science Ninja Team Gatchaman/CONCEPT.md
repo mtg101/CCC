@@ -34,8 +34,8 @@ I think us old timers would be much more useful helping the kids work out how we
   - Product, project & programme manager, scrum master, documenter, facilitator, and general dogsbody
   - We won't know many answers off the top of our heads, but these kids aren't asking textbook questions, and we know how to figure stuff out with our experience
 - One younger facilitator
-  - We have to have 2 people at all times anyway
   - Diversity is always good so let's not make it two old farts
+      - We have to have 2 people at all times anyway...
   - Good experience / CV fodder for them helping to lead a team, not just help out in a class
 - Gang of about 5 kids
   - Some of the noisy disruptive ones whose neurospice could do with a target
