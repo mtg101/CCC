@@ -159,9 +159,6 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 ### Stretch Goals: 
 - once you get to the other side, the game ends :sadface:
     - what else could happen? 
-- why is your sprite crossing in the first place?
-    - chickens crossing road jokes?
-    - is the hero jumping over to save her pet from something?
 - how would you make different levels for this game?
     - or would this just be one section of a larger game with a full story?
 
