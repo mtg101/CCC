@@ -16,7 +16,7 @@ Then you've got the quiet ones. While the googolplexers are screaming the house 
 # "There go the kids. I must follow them, for I am their teacher."
 - Alexandre Auguste Ledru-Rollin (maybe - if he'd been a teacher not a lawyer)
 
-I don't think the basic classes are suitable for either of these groups of kids. 
+I don't think the basic classes are suitable for either of these groups of kids. (todo: bit harsh?)
 
 I think they all would be better off if we let them find something they want to do, and we just facilitate.
 
@@ -82,6 +82,6 @@ I needed a name for this concept and well - I'm an old nerd so Battle of the Pla
 - 6 weeks later...
   - 'fart drones' on a CV gets someone a job
   - Parents email us asking how to stop their laptops farting at them every time they log in
-  - One parent makes the mistake of saying "well at least they didn't..." in front of the kids
+  - One parent makes the mistake of saying "Well at least they didn't..." in front of the kids
     - and we have our next project! *hwaiting!*
 
