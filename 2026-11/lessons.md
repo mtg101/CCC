@@ -154,6 +154,7 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 ### Course: https://projects.raspberrypi.org/en/projects/dont-fall-in
 
 ### Goal: follow the instructions and design your own jumping game
+- check out the demo game, then decide what style you'll go with: chicken crossing roads? frogs jumping over rivers?
 
 ### Stretch Goals: 
 - once you get to the other side, the game ends :sadface:
