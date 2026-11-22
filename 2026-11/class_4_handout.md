@@ -11,6 +11,7 @@ Let's put together the interactive sprites, animates sprites and design we've le
 ### Course: https://projects.raspberrypi.org/en/projects/dont-fall-in
 
 ### Goal: make your own platform jumper game using your own designs!
+- check out the demo game, then decide what style you'll go with: chicken crossing roads? frogs jumping over rivers?
 
 ### How to ask for help
 If you get stuck ask for help - and when you ask it helps if you tell us what you're trying to do, and what isn't working, like 'my sprite doesn't land on the blocks it always dies' rather than just shouting 'it's broken it's broken'.
@@ -18,9 +19,6 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
 ### Stretch Goals: more things you can do with this project, in class or later at home
 - once you get to the other side, the game ends :sadface:
     - what else could happen? 
-- why is your sprite crossing in the first place?
-    - chickens crossing road jokes?
-    - is the hero jumping over to save her pet from something?
 - how would you make different levels for this game?
     - or would this just be one section of a larger game with a full story?
 
