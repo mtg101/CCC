@@ -163,7 +163,7 @@ If you get stuck ask for help - and when you ask it helps if you tell us what yo
     - or would this just be one section of a larger game with a full story?
 
 
-## Class 5 - December 5th
+## Class 5 - December 12th (no class Dec 5th)
 
 ### Makecode Micro:bits not Scratch
 Today we'll be getting the kids to write code for the cool little Micro_bit devices, and downloading and running their code n real devices.
@@ -215,7 +215,7 @@ No single goal for this class. Depending on how it goes with using Makecode not 
 
 
 
-## Class 6 - December 12th
+## Class 6 - December 19th
 
 ### Title: Happy Holidays!
 "Most people around the world have a celbration in the middle of winter. It's a dark cold time when we all need a good party to cheer us up!
