@@ -8,9 +8,12 @@ All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 ### Title: Tiny Tunes
 Laptops aren't the only thing that Block Code can control. Today we're going to play with Micro:bits https://microbit.org/ - tiny little computers with lots of sensors, some LEDs and a speaker.
 
+We're not using Scratch for this, but MakeCode works just like Scratch with nice blocks, plus it knows how to work with these Micro:bits.
+
 ### Course: https://makecode.microbit.org/
 - here you can find the Dice example to edit and download to the Micro:bit
 - plus techno tunes here: https://github.com/mtg101/Techno-bit/blob/main/README.md
+
 ### Goals: 
 Let's work as a class to try some fun things with the Micro:bit devices...
 
@@ -25,8 +28,6 @@ Let's work as a class to try some fun things with the Micro:bit devices...
     - remember to agree which Radio Channel your Micro:bits will be sharing! They have to agree, and you don't want to affect other Micro:bits in the class so your groups need their own channel
 - make a sound when you receive a message
     - think how to do to this yourself, or by talking to someone else in the class
-- play Techno:bit demo to see where this can go!
-    - https://github.com/mtg101/Techno-bit/blob/main/README.md
 
 ### Stretch Goals: more things you can do with this project, in class or later at home
 - use the Makecode Micro:bit simulator to send messages to another microbit
