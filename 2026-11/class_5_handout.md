@@ -3,7 +3,8 @@ A 6-week course for students new to making computers do what they're told.
 
 All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 
-## Class 5 - December 5th
+## Class 5 - December 12th
+No class on Dec 5th.
 
 ### Title: Tiny Tunes
 Laptops aren't the only thing that Block Code can control. Today we're going to play with Micro:bits https://microbit.org/ - tiny little computers with lots of sensors, some LEDs and a speaker.
