@@ -12,7 +12,6 @@ We're not using Scratch for this, but MakeCode works just like Scratch with nice
 
 ### Course: https://makecode.microbit.org/
 - here you can find the Dice example to edit and download to the Micro:bit
-- plus techno tunes here: https://github.com/mtg101/Techno-bit/blob/main/README.md
 
 ### Goals: 
 Let's work as a class to try some fun things with the Micro:bit devices...
@@ -35,7 +34,7 @@ Let's work as a class to try some fun things with the Micro:bit devices...
     - https://makecode.microbit.org/S26000-11508-29408-02742 
     - https://github.com/mtg101/Techno-bit 
 - think about how you could connect a Micro:bit to other sensors, or even to control a robot!
-    = https://kitronik.co.uk/collections/coding/microbit-and-accessories/accessories-for-the-bbc-micro-bit 
+    - https://kitronik.co.uk/collections/coding/microbit-and-accessories/accessories-for-the-bbc-micro-bit 
     - https://thepihut.com/collections/bbc-micro-bit-robotics
 
 
