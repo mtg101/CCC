@@ -30,8 +30,15 @@ Let's work as a class to try some fun things with the Micro:bit devices...
     - think how to do to this yourself, or by talking to someone else in the class
 
 ### Stretch Goals: more things you can do with this project, in class or later at home
+- find other tutorials to try!
+    - https://makecode.microbit.org/#
+- you don't need your own Microbit
+    - you can use the simulator in Makecode
 - try Techno:bit yourself and use it to make your own tracks and songs
-    - https://github.com/mtg101/Techno-bit 
+    - https://github.com/mtg101/Techno-bit
+- if you want your own Microbit...
+    - https://kitronik.co.uk/collections/coding/microbit-and-accessories/bbc-microbit
+    - https://thepihut.com/collections/micro-bit-kits-bundles 
 - think about how you could connect a Micro:bit to other sensors, or even to control a robot!
     - https://kitronik.co.uk/collections/coding/microbit-and-accessories/accessories-for-the-bbc-micro-bit 
     - https://thepihut.com/collections/bbc-micro-bit-robotics
