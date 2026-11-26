@@ -177,6 +177,8 @@ While Scratch does have plugins for the Micro:bit devices, it's much easier to c
 
 But most fun... they can talk to each other! We can send messages to each other... but also sounds! And if we can send one sound... we can make songs!
 
+(give demo of Techno;bit - start showing one track, then another, then conducting)
+
 We're going to try a number of simple projects, starting with just getting a simple app downloaded to the devices. Then we'll see what else they can do...
 
 If you get stuck, ask for help. And remember to try and ask good questions so you get the best answers!" 
