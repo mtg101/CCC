@@ -30,8 +30,7 @@ Let's work as a class to try some fun things with the Micro:bit devices...
 
 ### Stretch Goals: more things you can do with this project, in class or later at home
 - use the Makecode Micro:bit simulator to send messages to another microbit
-- copy the Techno:bit code and use it to make your own tracks and songs
-    - https://makecode.microbit.org/S26000-11508-29408-02742 
+- try Techno:bit yourself and use it to make your own tracks and songs
     - https://github.com/mtg101/Techno-bit 
 - think about how you could connect a Micro:bit to other sensors, or even to control a robot!
     - https://kitronik.co.uk/collections/coding/microbit-and-accessories/accessories-for-the-bbc-micro-bit 
