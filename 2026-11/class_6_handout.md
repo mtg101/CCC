@@ -3,7 +3,7 @@ A 6-week course for students new to making computers do what they're told.
 
 All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 
-## Class 6 - December 12th
+## Class 6 - December 19th
 
 ### Title: Happy Holidays!
 Let's make our own animated scenes in Scratch showing how we all celebrate winter in different ways, and then share them with the class. 
