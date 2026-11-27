@@ -4,6 +4,11 @@ A 6-week course for students new to making computers do what they're told.
 All classes: https://github.com/mtg101/CCC/tree/main/2026-11
 
 ## Class 4 - November 28th
+# Start page: https://github.com/mtg101/CCC/blob/main/2026-11/class_4_handout.md
+# Shorter link to navigate from:  https://github.com/mtg101/CCC
+# Course: https://projects.raspberrypi.org/en/projects/dont-fall-in
+# Or search: pi don't fall in
+
 
 ### Title: Time for you own platform jumper game!
 Let's put together the interactive sprites, animates sprites and design we've learned to make our own platform jumping game!
