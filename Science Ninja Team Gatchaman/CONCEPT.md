@@ -84,4 +84,6 @@ I needed a name for this concept and well - I'm an old nerd so Battle of the Pla
   - Parents email us asking how to stop their laptops farting at them every time they log in
   - One parent makes the mistake of saying "Well at least they didn't..." in front of the kids
     - and we have our next project! *hwaiting!*
+   
+Farts this maybe: [but it's a doable project for under £100](https://github.com/mtg101/CCC/blob/main/Science%20Ninja%20Team%20Gatchaman/FARTDRONE.md). 
 
